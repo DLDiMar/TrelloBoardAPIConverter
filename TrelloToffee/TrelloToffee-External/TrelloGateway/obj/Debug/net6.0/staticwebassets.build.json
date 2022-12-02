@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QfyIxUuc8J4t1ZpNgqjpII2pk1ILFpeV3kOaKXQeack=",
+  "Source": "TrelloGateway",
+  "BasePath": "_content/TrelloGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
